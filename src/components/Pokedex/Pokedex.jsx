@@ -1,6 +1,6 @@
 import React from 'react'
 import Search from '../Search/Search'
-import './pokedex.css'
+import './Pokedex.css'
 import PokemonList from '../PokemonList/PokemonList'
 
 function Pokedex() {
