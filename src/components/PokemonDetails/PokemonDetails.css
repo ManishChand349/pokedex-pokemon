@@ -11,3 +11,9 @@
 .pokemon-image{
      width: 30%;
 }
+.pokemon-types{
+     background: #a9d2f3a5;
+     padding: 5px 12px; 
+     border-radius: 7px;
+     
+}
